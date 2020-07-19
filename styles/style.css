@@ -11193,3 +11193,18 @@ pre {
   color: #777;
   text-align: center;
 }
+
+/* back button */
+a.button__back {
+  background: #fff;
+  border-radius: 30px;
+  bottom: 100px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.39);
+  color: inherit;
+  font-weight: bold;
+  padding: 10px 30px;
+  position: fixed;
+  right: 30px;
+  text-decoration: none;
+  z-index: 999;
+}
